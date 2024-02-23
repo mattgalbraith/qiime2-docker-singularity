@@ -14,7 +14,7 @@ https://github.com/mamba-org/micromamba-docker
   
 ## Build docker container:  
 
-### 1. For TOOL installation instructions:  
+### 1. For QIIME 2 installation instructions:  
 https://docs.qiime2.org/2024.2/install/native/#miniconda  
 
 
