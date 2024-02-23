@@ -8,7 +8,7 @@ QIIME 2 is a powerful, extensible, and decentralized microbiome analysis package
 https://qiime2.org/ 
   
 #### Requirements:
-see https://docs.qiime2.org/2024.2/
+see https://docs.qiime2.org/2024.2/  
 Install within image using micromamba
 https://github.com/mamba-org/micromamba-docker
   
